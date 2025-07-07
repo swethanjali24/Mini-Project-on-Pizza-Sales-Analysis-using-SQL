@@ -27,15 +27,21 @@ The database contains the following tables:
 
 ---
 
-## 🧠 Key SQL Concepts Used
+## 🛠️ Skills & Tools Used
 
-- **JOIN** operations between multiple tables  
-- Aggregate functions: **`SUM`, `COUNT`, `AVG`, `FLOOR`**  
-- Grouping and ordering: **`GROUP BY`, `ORDER BY`**  
-- Filtering: **`WHERE`, `LIMIT`**  
-- Subqueries and derived tables  
-- Window functions: **`RANK()`, `ROW_NUMBER()`, `SUM() OVER`**  
-- Date and time functions: **`HOUR()`, `DATE()`**
+### 📊 SQL Concepts:
+- **Relational database modeling**
+- **Data querying and filtering**
+- **Table joins**: `INNER JOIN`, `SELF JOIN`
+- **Aggregation functions**: `SUM()`, `AVG()`, `COUNT()`, `FLOOR()`, `ROUND()`
+- **Grouping and sorting**: `GROUP BY`, `ORDER BY`, `HAVING`
+- **Window functions**: `RANK()`, `ROW_NUMBER()`, `SUM() OVER(...)`
+- **Subqueries and derived tables**
+- **Date and time functions**: `DATE()`, `HOUR()`
+
+### 🗃️ Tools:
+- **MySQL**
+- **GitHub** (for version control and showcasing the project)
 
 
 **🙌 Acknowledgments**
